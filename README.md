@@ -54,7 +54,7 @@ Os programas utilizam diferentes estruturas de dados para armazenar e processar 
 ## 📌 Confira meu artigo no DEV.to
 
 Para explorar mais sobre **estruturas condicionais, loops e manipulação de dados em Java**, confira meu artigo no  
-[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-6-p8n) 🚀
+[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-7-cdm) 🚀
 
 Neste artigo, compartilho **exemplos práticos e soluções eficientes** para manipulação de **arrays**, **listas** (`List`) e **mapas** (`Map`), além do uso de **estruturas de repetição** (`for`, `while`) e **controle de fluxo** (`if-else`).
 
